@@ -5,8 +5,6 @@ repo: dome-uptime # The name of this repository
 sites:
   - name: dome
     url: https://dome-1.onrender.com
-    port: 443           # HTTPS默认端口
-    check: "http"       # 使用HTTP检查（验证状态码和内容）
     expectedStatusCodes: [200]  # 预期状态码
     followRedirects: true       # 跟随重定向
     maxResponseTime: 3000       # 最大响应时间（毫秒）
