@@ -17,7 +17,7 @@
 name: Uptime CI
 on:
   schedule:
-    - cron: '*/10 * * * *'  # 每10分钟执行一次
+    - cron: "*/5 * * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
