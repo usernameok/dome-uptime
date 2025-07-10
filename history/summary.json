@@ -1,20 +1,22 @@
 [
   {
     "name": "dome",
-    "url": "https://dome-1.onrender.com/",
+    "url": "https://dome-1.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dome-1.onrender.com.ico",
     "slug": "dome",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "10.02%",
+    "uptimeDay": "10.02%",
+    "uptimeWeek": "10.02%",
+    "uptimeMonth": "10.02%",
+    "uptimeYear": "10.02%",
+    "time": 309,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
+    "dailyMinutesDown": {
+      "2025-07-10": 14
+    }
   }
 ]
