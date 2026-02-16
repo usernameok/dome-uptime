@@ -4,7 +4,7 @@
     "url": "https://dome-1.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dome-1.onrender.com.ico",
     "slug": "dome",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.87%",
@@ -16,6 +16,7 @@
     "timeMonth": 1693,
     "timeYear": 691,
     "dailyMinutesDown": {
+      "2026-02-16": 0,
       "2026-02-13": 100,
       "2026-02-12": 55,
       "2026-02-11": 249,
