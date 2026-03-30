@@ -4,14 +4,14 @@
     "url": "https://dome-1.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dome-1.onrender.com.ico",
     "slug": "dome",
-    "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "55.53%",
+    "status": "down",
+    "uptime": "98.30%",
+    "uptimeDay": "58.46%",
     "uptimeWeek": "81.38%",
     "uptimeMonth": "90.66%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.30%",
     "time": 2139,
-    "timeDay": 14171,
+    "timeDay": 14352,
     "timeWeek": 7529,
     "timeMonth": 5327,
     "timeYear": 2139,
@@ -61,8 +61,7 @@
       "2025-10-05": 31,
       "2025-09-29": 32,
       "2025-09-02": 18,
-      "2025-08-14": 21,
-      "2025-08-05": 34
+      "2025-08-14": 21
     }
   }
 ]
