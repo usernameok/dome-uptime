@@ -4,18 +4,19 @@
     "url": "https://dome-1.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dome-1.onrender.com.ico",
     "slug": "dome",
-    "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "59.37%",
-    "uptimeWeek": "79.31%",
-    "uptimeMonth": "90.01%",
-    "uptimeYear": "98.23%",
-    "time": 2190,
-    "timeDay": 17102,
-    "timeWeek": 7528,
-    "timeMonth": 5362,
-    "timeYear": 2190,
+    "status": "up",
+    "uptime": "98.22%",
+    "uptimeDay": "53.01%",
+    "uptimeWeek": "78.40%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "98.22%",
+    "time": 2244,
+    "timeDay": 18206,
+    "timeWeek": 8000,
+    "timeMonth": 5538,
+    "timeYear": 2244,
     "dailyMinutesDown": {
+      "2026-03-31": 92,
       "2026-03-30": 794,
       "2026-03-29": 98,
       "2026-03-28": 111,
@@ -60,8 +61,7 @@
       "2025-12-05": 52,
       "2025-10-05": 31,
       "2025-09-29": 32,
-      "2025-09-02": 18,
-      "2025-08-14": 21
+      "2025-09-02": 18
     }
   }
 ]
