@@ -4,12 +4,12 @@
     "url": "https://dome-1.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/dome-1.onrender.com.ico",
     "slug": "dome",
-    "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "92.78%",
+    "status": "down",
+    "uptime": "98.19%",
+    "uptimeDay": "92.77%",
     "uptimeWeek": "97.45%",
     "uptimeMonth": "90.26%",
-    "uptimeYear": "98.17%",
+    "uptimeYear": "98.19%",
     "time": 3005,
     "timeDay": 1793,
     "timeWeek": 9558,
@@ -56,7 +56,7 @@
       "2026-02-24": 110,
       "2026-02-22": 17,
       "2026-02-21": 75,
-      "2026-02-20": 150
+      "2026-02-20": 73
     }
   }
 ]
